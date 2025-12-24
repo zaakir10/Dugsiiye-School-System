@@ -30,7 +30,7 @@ const UI = {
 
         sidebar.innerHTML = `
             <div class="sidebar-header">
-                🏫 EduSmart
+                🏫 Dugsiiye
             </div>
             <ul class="sidebar-menu">
                 <li><a href="dashboard.html" class="${getActive('dashboard.html')}">📊 Dashboard</a></li>
